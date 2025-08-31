@@ -50,7 +50,7 @@ Liv’s WV report brochure!
   <section>
     <h2>About Greenbrier County</h2>
     <p>
-      Greenbrier County, created in 1778, formed by the Virginia General Assembly is one of  the oldest counties in West Virginia. John van Meter being the first person to settle there! 
+      Greenbrier County, created in 1778, formed by the Virginia General Assembly is one of  the oldest counties in West Virginia Though John van Meter was the first person to settle there! 
      
     </p>
 
