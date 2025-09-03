@@ -50,18 +50,18 @@ Liv’s WV report brochure!
   <section>
     <h2>About Greenbrier County</h2>
     <p>
-      Greenbrier County, created in 1778, formed by the Virginia General Assembly is one of  the oldest counties in West Virginia Though John van Meter was the first person to settle there! Greenbrier County was named after a common, green-stemmed vine with blue-black berries, which was also called "cat brier" by early explorers. French explorers initially referred to the area as "Rivieria de la Ronceverte," which translates to "Greenbrier River"!
+      Greenbrier County, created in 1778 and formed by the Virginia General Assembly, is one of the oldest counties in West Virginia. John Van Meter was the first person to settle there! Greenbrier County was named after a common, green-stemmed vine with blue-black berries, which was also called "cat brier" by early explorers. French explorers initially referred to the area as "Rivière de la Ronceverte," which translates to "Greenbrier River"! The County seat Lewisburg is one of the many places you can still find these now called, Greenbrier berries!
      
     </p>
 
     <div class="fact-box">
       <h3>Interesting Fact</h3>
-      <p>Many people know about The Greenbrier Resort in White Sulphur Springs secretly housed a Cold War-era underground bunker designed to protect Congress in case of nuclear attack, But many people don’t know about the only natural underground river known in West Virginia which is under the organ cave! Only  spelunkers have seen it!</p>
+      <p>Many people know about The Greenbrier Resort in White Sulphur Springs, which secretly housed a Cold War-era underground bunker designed to protect Congress in case of nuclear attack. But many people don’t know about the only natural underground river known in West Virginia, which is under the Organ Cave! Only  spelunkers have seen it!</p>
     </div>
 
-    <h2>Some fun places to visit if your ever in Greenbrier!</h2>
+    <h2>Some fun places to visit if you're ever in Greenbrier County!</h2>
     <p>
-      You could explore the Greenbrier Resort with its historic grounds, golf courses, and bunker tours, or you could watch a show at the Greenbrier Valley Theatre! You could even visit the tourist region,New River-Greenbrier Valley,and go white water rafting or rock climbing! There is so many fun things to do in Greenbrier County!
+      You could explore the Greenbrier Resort with its historic grounds, golf courses, and bunker tours, or you could watch a show at the Greenbrier Valley Theatre! You could even visit the tourist region, New River-Greenbrier Valley,and go white-water rafting or rock climbing! There are so many fun things to do in Greenbrier County!
     </p>
 
 <p> I hope you enjoyed my little extra brochure site! </p> 
