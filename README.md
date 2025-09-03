@@ -50,7 +50,7 @@ Liv’s WV report brochure!
   <section>
     <h2>About Greenbrier County</h2>
     <p>
-      Greenbrier County, created in 1778, formed by the Virginia General Assembly is one of  the oldest counties in West Virginia Though John van Meter was the first person to settle there! 
+      Greenbrier County, created in 1778, formed by the Virginia General Assembly is one of  the oldest counties in West Virginia Though John van Meter was the first person to settle there! Greenbrier County was named after a common, green-stemmed vine with blue-black berries, which was also called "cat brier" by early explorers. French explorers initially referred to the area as "Rivieria de la Ronceverte," which translates to "Greenbrier River"!
      
     </p>
 
@@ -61,7 +61,7 @@ Liv’s WV report brochure!
 
     <h2>Some fun places to visit if your ever in Greenbrier!</h2>
     <p>
-      You could explore the Greenbrier Resort with its historic grounds, golf courses, and bunker tours, or you could watch a show at the Greenbrier Valley Theatre! There is so much more to do at Greenbrier WV!
+      You could explore the Greenbrier Resort with its historic grounds, golf courses, and bunker tours, or you could watch a show at the Greenbrier Valley Theatre! You could even visit the tourist region,New River-Greenbrier Valley,and go white water rafting or rock climbing! There is so many fun things to do in Greenbrier County!
     </p>
 
 <p> I hope you enjoyed my little extra brochure site! </p> 
